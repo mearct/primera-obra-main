@@ -9,17 +9,13 @@
         <!-- Menu -->
             <div class="menu col-sm-8 col-md-10" id="menu">
                 <ul>
-                    <li><a href="index.html">home</a>
-
-                    </li>
-                    <li><a href="about-me.html">about us</a></li>
-                    <li><a href="works.html">Works</a>
-
-                    </li>
-                    <li><a href="gallery-images.html">Gallery</a></li>
-                    <li><a href="news.html">News</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-               </ul>
+                    <li><a href="{{ url('/') }}">home</a></li>
+                    <li><a href="{{ url('/about') }}">about us</a></li>
+                    <li><a href="{{ url('/works') }}">Works</a></li>
+                    <li><a href="{{ url('/gallery') }}">Gallery</a></li>
+                    <li><a href="{{ url('/news') }}">News</a></li>
+                    <li><a href="{{ url('/contacts') }}">Contact</a></li>
+                </ul>
             </div>
         <!-- Menu -->
     </div>
