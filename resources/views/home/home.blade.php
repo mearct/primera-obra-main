@@ -29,7 +29,7 @@
         <ul class="home-slider-horizontal">
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_01.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_01.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -37,7 +37,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_02.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_02.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -45,7 +45,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_03.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_03.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -53,7 +53,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_04.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_04.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -61,7 +61,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_05.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_05.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -69,7 +69,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_06.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_06.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -77,7 +77,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_07.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_07.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -85,7 +85,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_08.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_08.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -93,7 +93,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_09.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_09.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -101,7 +101,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_10.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_10.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -109,7 +109,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_11.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_11.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>
@@ -117,7 +117,7 @@
             </li>
             <li class="slide">
                 <a href="index.html">
-                    <div class="s-bg" style="background-image: url(assets/images/gallery/image_12.png)"></div>
+                    <div class="s-bg" style="background-image: url({{ asset('primera-obra-main/assets/images/gallery/image_12.png') }})"></div>
                     <div class="slide-desc">
                         <h2>slide title</h2>
                     </div>

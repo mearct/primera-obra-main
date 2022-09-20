@@ -20,3 +20,25 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home.home');
 });
+
+Route::get('/about', function () {
+    return view('about.about');
+});
+
+Route::get('/contacts', function () {
+    return view('contacts.contacts');
+});
+
+Route::get('/gallery', function () {
+    return view('gallery.gallery');
+});
+
+Route::get('/news', function () {
+    return view('news.news');
+});
+
+Route::get('/works', function () {
+    return view('works.works');
+});
+
+
